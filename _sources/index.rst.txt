@@ -14,3 +14,4 @@ Stewart Wilcox
    :caption: Index
 
    /_static/hello.rst
+   /_static/long_file.rst
