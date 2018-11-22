@@ -13,5 +13,5 @@ Stewart Wilcox
    :maxdepth: 2
    :caption: Index
 
-   /_static/hello.rst
-   /_static/long_file.rst
+   /docs/resume.rst
+   /docs/languages.rst
