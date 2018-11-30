@@ -6,19 +6,21 @@ Resume
 | Winnipeg, MB, Canada
 | R3T 4X2
 | \(204) 870-9867
-| estewartw@hotmail.com
+| stewartw@protonmail.com
 
 
 -------------------
 Demonstrated Skills
 -------------------
-| Excellent communication and problem-solving skills.
-| Demonstrated ability to work independently and as a member of a team both in person and remotely.
-| Experience with Python, and SQLite. Proficient in Git, C, C++, C#, and Java.
-| Agricultural background.
-| Experience with ArcGIS.
-| Fourth-year BSc student at the University of Manitoba, CS major. Expected graduation in August.
-| Personable, self-motivated, and well organized.
+| Experience writing OAS documentation and working with RESTful APIs
+| Demonstrated ability to work individually and cooperatively with a team
+| Experience documenting internal source code
+| Experience implementing and utilizing testing solutions
+| Excellent troubleshooting and problem solving skills
+| Experience with Git
+| Creative, motivated, resourceful and passionate
+| Strong communication and troubleshooting skills
+
 
 ----------
 Employment
@@ -26,17 +28,17 @@ Employment
 
 Dec 2017 - Present
 ==================
-| MASC IT Operations Service Desk Technician
+| Manitoba Agricultural Services Corporation IT Operations Service Desk Technician
 | Under the general supervision of the IT Infrastructure Lead and IT Service Lead:
-| Evaluate and prioritize enquiries. Create detailed responses in a timely and courteous manner. Resolve end-user issues. Record, track, and document the service desk request problem-solving process. Perform hands-on fixes at the desktop level. Develop help sheets for end-users.
+| Evaluate and prioritize inquiries. Create detailed responses in a timely and courteous manner. Resolve end-user issues. Record, track, and document the service desk request problem-solving process. Perform hands-on fixes at the desktop level. Develop help sheets for end-users.
 
 
 
 Summer 2017
 ===========
-| MASC IT Operations Summer Student
+| Manitoba Agricultural Services Corporation IT Operations Summer Student
 | Under the direct supervision of the Network Support Specialist:
-| Evaluated and prioritized enquiries. Created detailed responses in a timely and courteous manner. Resolved end-user issues. Recorded, tracked, and documented the service desk request problem-solving process. Performed hands-on fixes at the desktop level. Developed help sheets for end-users. Extracted and analyzed information from previous ticketing system.
+| Evaluated and prioritized inquiries. Created detailed responses in a timely and courteous manner. Resolved end-user issues. Recorded, tracked, and documented the service desk request problem-solving process. Performed hands-on fixes at the desktop level. Developed help sheets for end-users. Extracted and analyzed information from previous ticketing system.
 
 
 Feb 2016 – Oct 2017
@@ -75,13 +77,14 @@ Related Education
 
 Sept. 2013 – Present
 ====================
+| Expected Graduation December 2018
 | Student, University of Manitoba
-| Courses include Intelligent Mobile Robotics, Advanced Artificial Intelligence, Data Structures and Algorithms, Programming Practices, and Operating System Concepts
+| Courses include Technical Communication, Programming Practices, Data Structures and Algorithms, Intelligent Mobile Robotics, and Advanced Artificial Intelligence.
 | GPA 3.6
+
 
 ----------
 References
 ----------
 References Available Upon Request
-
 

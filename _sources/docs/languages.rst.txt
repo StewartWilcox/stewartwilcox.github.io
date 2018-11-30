@@ -2,35 +2,55 @@
 "Languages"
 ===========
 
-------------
-Rust
-------------
+Below is a list of languages I have worked with in no particular order.
 
-------------
-C
-------------
-
-------------
-Bash
-------------
-
---------------------
-Python - Tenser Flow
---------------------
+Unfortunately, almost all of the languages I have learned are for school. This means most of my work is solutions to assignments. As such, examples of my code are not posted but may be provided upon request.
 
 ------------
 Java
 ------------
+| The introductory computer science courses taught programming concepts using Java. As such I have lots of experience with Java from when I was learning to program.
+| :download:`Comp 1010 </docs/class_descriptions/comp1010.pdf>` - Introductory Computer Science 1
+| :download:`Comp 1020 </docs/class_descriptions/comp1020.pdf>` - Introductory Computer Science 2
+| :download:`Comp 2140 </docs/class_descriptions/comp2140.pdf>` - Data Structures and Algorithms
 
 ------------
-YAML
+C
 ------------
+| One of my favourite languages to learn, and also one of the most frustrating. The computer does *exactly* what you tell it to, so I've learned a lot from constantly having my programs unexpectedly crash.
+| :download:`Comp 2160 </docs/class_descriptions/comp2160.pdf>` - Programming Practices
 
+------------
+C++
+------------
+| Both Open CV and Darwin-OP 2 used C++, and we were programming the Darwin to play soccer. This took way more late nights then I care to admit, but it was worth it in the end.
+| Comp 4180 - Intelligent Mobile Robotics
 
+--------------------
+Python - Tenser Flow
+--------------------
+| This one was a struggle. When we started using it for our neural nets for class, it was just released. The documentation wasn't really there, so it was a lot of figuring it out on our own.
+| :download:`Comp 4190 </docs/class_descriptions/comp4190.pdf>` - Artificial Intelligence
 
+------------
+Prolog
+------------
+| I really enjoyed learning Prolog. Once I got used to the idea of running queries, I had a lot of fun with it.
+| :download:`Comp 3190 </docs/class_descriptions/comp3190.pdf>` -  Introduction to Artificial Intelligence
 
+------------
+Rust
+------------
+I heard about Rust in late 2018, and since then have slowly been working my way through "The Book".
 
+------------
+YAML/JSON
+------------
+One of the many things I learned in my technical communications course was dynamic API design and documentation with OpenAPI/Swagger. 
 
-
+------------
+Bash
+------------
+I've been using Linux as my main OS for the past few years. As such I have become familiar with the command line. I am writing the Linux Foundation Certified SysAdmin exam soon, so I'll have a paper to prove it.
 
 
