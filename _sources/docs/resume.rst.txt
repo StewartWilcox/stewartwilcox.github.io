@@ -12,14 +12,14 @@ Resume
 -------------------
 Demonstrated Skills
 -------------------
-| Experience writing OAS documentation and working with RESTful APIs
-| Demonstrated ability to work individually and cooperatively with a team
-| Experience documenting internal source code
-| Experience implementing and utilizing testing solutions
-| Excellent troubleshooting and problem solving skills
-| Experience with Git
-| Creative, motivated, resourceful and passionate
-| Strong communication and troubleshooting skills
+- Experience writing OAS documentation and working with RESTful APIs.
+- Demonstrated ability to work individually and cooperatively with a team.
+- Experience documenting internal source code.
+- Experience implementing and utilizing testing solutions.
+- Excellent troubleshooting and problem solving skills.
+- Experience with Git.
+- Creative, motivated, resourceful and passionate.
+- Strong communication and troubleshooting skills.
 
 
 ----------
@@ -28,46 +28,39 @@ Employment
 
 Dec 2017 - Present
 ==================
-| Manitoba Agricultural Services Corporation IT Operations Service Desk Technician
-| Under the general supervision of the IT Infrastructure Lead and IT Service Lead:
+| **Manitoba Agricultural Services Corporation IT Operations Service Desk Technician**
+| *Under the general supervision of the IT Infrastructure Lead and IT Service Lead*:
 | Evaluate and prioritize inquiries. Create detailed responses in a timely and courteous manner. Resolve end-user issues. Record, track, and document the service desk request problem-solving process. Perform hands-on fixes at the desktop level. Develop help sheets for end-users.
-
 
 
 Summer 2017
 ===========
-| Manitoba Agricultural Services Corporation IT Operations Summer Student
-| Under the direct supervision of the Network Support Specialist:
+| **Manitoba Agricultural Services Corporation IT Operations Summer Student**
+| *Under the direct supervision of the Network Support Specialist*:
 | Evaluated and prioritized inquiries. Created detailed responses in a timely and courteous manner. Resolved end-user issues. Recorded, tracked, and documented the service desk request problem-solving process. Performed hands-on fixes at the desktop level. Developed help sheets for end-users. Extracted and analyzed information from previous ticketing system.
 
 
 Feb 2016 – Oct 2017
 ===================
-| Simaril Staff-Shift Home Casual Support Worker
+| **Simaril Staff-Shift Home Casual Support Worker**
 | Provided one-on-one care and support to persons with disabilities in their home and in the community. Provided assistance in maintaining a home. Prepared meals. Administered medication. Provided personal care. Attended professional appointments. Assisted individuals to participate in community activities. Wrote and submitted reports as necessary.
 
 
 Summer 2015
 ===========
-| New Directions Staff-Shift Home Casual Support Worker
+| **New Directions Staff-Shift Home Casual Support Worker**
 | Provided care and support to persons with disabilities in their home and in the community. Provided assistance in maintaining a home. Prepared meals. Administered medication. Provided personal care. Attended professional appointments. Assisted individuals to participate in community activities. Wrote and submitted reports as necessary.
 
-
-Summer 2015
-===========
-| Assessment Services STEP student - Department of Municipal Government
+| **Assessment Services STEP student - Department of Municipal Government**
 | Used ArcGIS to map soil types in Portage la Prairie and areas. Amalgamated and enhanced information on the database used by Assessment Services for the Province of Manitoba. Updated the property rolls as necessary. Filed. Answered phones. Assisted the Assessors in the field. Worked with sketching software and attached data to the database as well as scanned and attached data to the database.
 
 
 Summer 2014
 ===========
-| New Directions Staff-Shift Home Casual Support Worker
+| **New Directions Staff-Shift Home Casual Support Worker**
 | Worked as part of a team providing care and supporting people in their homes and in the community. Administered medication. Provided transportation. Performed household chores. Wrote and submitted reports as necessary.
 
-
-Summer 2014
-===========
-| Assessment Services STEP student - Department of Municipal Government
+| **Assessment Services STEP student - Department of Municipal Government**
 | Filed. Answered phones. Assisted the Assessors in the field. Worked alone in the	field. Worked with sketching software and attached data to the database as well as scanned and attached data to a database.
 
 
@@ -77,9 +70,11 @@ Related Education
 
 Sept. 2013 – Present
 ====================
-| Expected Graduation December 2018
+| Graduation December 2018
+| B.Sc. Bachelor of Science
+| Major in Psychology, Minor in Computer Science
 | Student, University of Manitoba
-| Courses include Technical Communication, Programming Practices, Data Structures and Algorithms, Intelligent Mobile Robotics, and Advanced Artificial Intelligence.
+| Courses include Technical Communication, Programming Practices, Data Structures and Algorithms, Intelligent Mobile Robotics, and Artificial Intelligence.
 | GPA 3.6
 
 
