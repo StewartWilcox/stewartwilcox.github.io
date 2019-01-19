@@ -15,3 +15,4 @@ Stewart Wilcox
 
    /docs/resume.rst
    /docs/languages.rst
+   /docs/aboutme.rst

@@ -1,3 +1,7 @@
+.. This is the raw reStructuredText of my resume.
+   Please visit stewartwilcox.github.io to see the pretty version, complete with search.
+
+
 ===============================
 Resume
 ===============================
@@ -7,19 +11,20 @@ Resume
 | R3T 4X2
 | \(204) 870-9867
 | stewartw@protonmail.com
-
+| `stewartwilcox.github.io <http://stewartwilcox.github.io>`_
 
 -------------------
 Demonstrated Skills
 -------------------
-- Experience writing OAS documentation and working with RESTful APIs.
+- Excellent time management skills, ability to prioritize and meet multiple deadlines.
 - Demonstrated ability to work individually and cooperatively with a team.
-- Experience documenting internal source code.
-- Experience implementing and utilizing testing solutions.
-- Excellent troubleshooting and problem solving skills.
-- Experience with Git.
+- Excellent interpersonal communication skills.
+- Ability to problem solve and prioritize issues.
 - Creative, motivated, resourceful and passionate.
-- Strong communication and troubleshooting skills.
+- Strong customer service skills.
+- Experience with various markup languages including Markdown, reStructuredText/Sphinx, and YAML.
+- Languages include Java, C, C++, Python/Tenser Flow, Prolog, Rust, YAML/JSON, and Bash.
+- Experience with version control systems including Git.
 
 
 ----------
@@ -61,7 +66,7 @@ Summer 2014
 | Worked as part of a team providing care and supporting people in their homes and in the community. Administered medication. Provided transportation. Performed household chores. Wrote and submitted reports as necessary.
 
 | **Assessment Services STEP student - Department of Municipal Government**
-| Filed. Answered phones. Assisted the Assessors in the field. Worked alone in the	field. Worked with sketching software and attached data to the database as well as scanned and attached data to a database.
+| Filed. Answered phones. Assisted the Assessors in the field. Worked alone in the field. Worked with sketching software and attached data to the database as well as scanned and attached data to a database.
 
 
 -----------------
@@ -70,11 +75,9 @@ Related Education
 
 Sept. 2013 – Present
 ====================
-| Graduation December 2018
-| B.Sc. Bachelor of Science
+| BSc from the University of Manitoba
 | Major in Psychology, Minor in Computer Science
-| Student, University of Manitoba
-| Courses include Technical Communication, Programming Practices, Data Structures and Algorithms, Intelligent Mobile Robotics, and Artificial Intelligence.
+| Courses included Technical Communication, Urban Agriculture, Programming Practices, Data Structures and Algorithms, Intelligent Mobile Robotics, and Artificial Intelligence.
 | GPA 3.6
 
 
@@ -82,4 +85,3 @@ Sept. 2013 – Present
 References
 ----------
 References Available Upon Request
-

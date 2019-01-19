@@ -53,4 +53,3 @@ Bash
 ------------
 I've been using Linux as my main OS for the past few years. As such I have become familiar with the command line. I am writing the Linux Foundation Certified SysAdmin exam soon, so I'll have a paper to prove it.
 
-
