@@ -4,7 +4,7 @@
 
 Below is a list of languages I have worked with in no particular order.
 
-Unfortunately, almost all of the languages I have learned are for school. This means most of my work is solutions to assignments. As such, examples of my code are not posted but may be provided upon request.
+Unfortunately, almost all the languages I have learned are for school. This means most of my programs are solutions to assignments. As such, examples of my code are not posted but I will provide them upon request.
 
 ------------
 Java
@@ -17,7 +17,7 @@ Java
 ------------
 C
 ------------
-| One of my favourite languages to learn, and also one of the most frustrating. The computer does *exactly* what you tell it to, so I've learned a lot from constantly having my programs unexpectedly crash.
+| One of my favourite languages to learn, and also one of the most frustrating. The computer does *exactly* what you tell it to. I've learned a lot from frequently having my programs unexpectedly crash.
 | :download:`Comp 2160 </docs/class_descriptions/comp2160.pdf>` - Programming Practices
 
 ------------
@@ -46,7 +46,7 @@ I heard about Rust in late 2018, and since then have slowly been working my way 
 ------------
 YAML/JSON
 ------------
-One of the many things I learned in my technical communications course was dynamic API design and documentation with OpenAPI/Swagger. 
+One of the many things I learned in my technical communications course. Used to create for dynamic API design and documentation with OpenAPI/Swagger.  
 
 ------------
 Bash

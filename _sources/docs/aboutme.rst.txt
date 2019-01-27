@@ -12,15 +12,15 @@
 About me
 ========
 
-I grew up in rural Manitoba, south of Portage la Prarie. Eventually I moved to Winnipeg to study at the U of M. This is where I became interested in computer science. I also learned that there are two types of people. Those who can extrapolate from incomplete data...
+I grew up in rural Manitoba, south of Portage la Prairie. Eventually, I moved to Winnipeg to study at the U of M. This is where I became interested in computer science. I also learned that there are two types of people. Those who can extrapolate from incomplete data...
 
-As a recent graduate I'm looking to start my career in computer science. However, as `Roy Brown said <https://youtu.be/rhp8jMykAVg>`_ while describing my current situation::
+As a recent graduate, I'm looking to start my career in computer science. However, as `Roy Brown said <https://youtu.be/rhp8jMykAVg>`_ while describing my current situation::
 
     ♫ "I don't pick my jobs, I'm ready for any ol' kind." ♫
 
-I'm interested in software development, however I am great fit for a technical writer. I have a background in psychology and experience in operations. On top of that, I am familiar with modern, milti-platform techniques, and have an A+ in my "Technical Communication in Computer Science" class.
+I am an experienced service desk technician working in a Microsoft ecosystem. I'm interested in software development, specifically building low-level IoT programs in C or Rust. At the same time, I am also a great fit for a technical writer. I have a background in psychology and experience working with end users. On top of that, I am familiar with modern, multi-platform techniques, and have strong communication skills.
 
-For my personal computer I run Linux and try to use free/libre software whenever possible. Currently, I am studying for the Linux Foundation Certified System Administrator Exam. Another project I am working on is building a Beowulf Cluster, which sounds for more impressive then it actually is.
+On my home network, I run Linux and try to use free/libre open source software (FLOSS) whenever possible. Currently, I am studying for the Linux Foundation Certified System Administrator Exam. Another project I am working on is building a Beowulf Cluster, which sounds far more impressive than it actually is. I strive to always be growing and developing more skills.
 
 I have a specialization in AI because it seemed to always be in the news and I wanted to learn more about how it worked. Plus, it meant I got to play with robots!
 
@@ -32,7 +32,7 @@ About you
 
 I'm looking for an employer who is trying to make the world a better place. Ideally by using (and making) data-driven technologies to do so.
 
-In a perfect world you would also have a passionate and determined team, career advancement opportunities, a flexible work environment, as well as an excellent benefits plan.
+In a perfect world, you also have a passionate and determined team. You have career advancement opportunities, a flexible work environment, and an excellent benefits plan. You understand the value of using and contributing to FLOSS. Finally, you also have opportunities for continual skill development and growth.
 
 If that sounds like you::
 
